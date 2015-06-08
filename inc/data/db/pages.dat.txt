@@ -1,0 +1,3 @@
+1"Galeria"{{gallery.galerja-xxx}}"0"top"pl"1"0"0"template.html
+2"Kontakt"&lt;span class=&quot;info&quot;&gt;{{contact.form}}&lt;/span&gt;"0"top"pl"2"0"0"template.html
+3"news"Gdzieś tu powinny pojawić się newsy&lt;br&gt;&lt;span class=&quot;info&quot;&gt;{{news}}&lt;/span&gt;&lt;br&gt;"0"top"pl"3"0"0"template.html
